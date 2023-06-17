@@ -3,14 +3,13 @@
 #include <stdio.h>
 
 /**
- *main - Entry point
- *Return: Always 0 (Success)
+ * main - Prints a text according number
+ *
+ * Return: Always (Success)
  */
-
 int main(void)
 {
-	int n; 
-	int lastn;
+	int n, lastd;
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
@@ -31,3 +30,4 @@ int main(void)
 
 	return (0);
 }
+
