@@ -1,1 +1,1 @@
-how to identify and remove errors
+more functions and nested loops assignment
