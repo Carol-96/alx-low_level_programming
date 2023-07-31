@@ -2,11 +2,11 @@
 #include <stdio.h>
 
 /**
- * listint_len - the number of elements in a linked listint_t list.
+ * listint_len - the number of elements in a list.
  *
- * @h: head pointer
+ * @h: pointer to the head
  *
- * Return: the number of elements
+ * Return: return the number of elements
  *
  */
 
